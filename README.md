@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mzrickers/mzrickers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Website](https://zachrickers.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I lived in Japan for 3 years.
--->
