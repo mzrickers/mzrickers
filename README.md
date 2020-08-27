@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Drawing app in React
 - 🌱 I’m currently learning ... Docker and Kubernetes
 - 👯 I’m looking to collaborate on ... learning apps
