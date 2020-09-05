@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... Drawing app in React
+- 🔭 I’m currently working on ... Drawing app in Vue
 - 🌱 I’m currently learning ... Docker and Kubernetes
 - 👯 I’m looking to collaborate on ... learning apps
 - 🤔 I’m looking for help with ... AWS
